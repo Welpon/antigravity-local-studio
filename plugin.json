@@ -1,0 +1,20 @@
+{
+  "name": "local-studio",
+  "displayName": "Local Studio",
+  "version": "1.0.0",
+  "description": "SQLite & PostgreSQL database explorer with a built-in localhost API tester right inside Antigravity.",
+  "author": {
+    "name": "Welpon"
+  },
+  "license": "MIT",
+  "logo": "assets/logo.svg",
+  "keywords": [
+    "sqlite",
+    "postgresql",
+    "database",
+    "api-tester",
+    "rest",
+    "localhost",
+    "mcp-app"
+  ]
+}
